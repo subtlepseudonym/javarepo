@@ -1,0 +1,8 @@
+republican,y,y,n,n,y
+republican,y,n,y,n,y
+republican,n,n,n,y,n
+republican,n,y,y,y,n
+democrat,n,y,y,n,n
+democrat,y,n,n,n,n
+democrat,n,n,y,y,n
+democrat,y,y,n,y,y
