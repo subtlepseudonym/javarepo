@@ -6,3 +6,4 @@ A collection of my various Java projects.
 + DecisionTree - decision tree designed for linearly separable data
 + HMM - hidden markov model for fair and unfair coin tosses
 + InvIndex - builds an inverted index of a corpus and allows querying
++ KakuroSolver - solves kakuro puzzles with high efficiency
