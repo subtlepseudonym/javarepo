@@ -7,3 +7,4 @@ A collection of my various Java projects.
 + HMM - hidden markov model for fair and unfair coin tosses
 + InvIndex - builds an inverted index of a corpus and allows querying
 + KakuroSolver - solves kakuro puzzles with high efficiency
++ KMeans - clustering based upon minimum squared distance
